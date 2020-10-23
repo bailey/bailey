@@ -1,3 +1,10 @@
-<p align="center">
-  <img width="300" height="300" src="https://media1.tenor.com/images/fd4b907fcbd88ba746b5c868e67cbf07/tenor.gif?itemid=13255059">
-</p>
+<samp> ✨ hi! <br>
+  👩🏼‍💻 i do product tings on github codespaces<br> 
+  🌁 based in sf <br>
+  🛸 playing: outer lands, valorant, super mario galaxy<br>
+  📖 reading: dune <br> 
+  🎧 listening to: <br> </samp>
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) <br>
+
+<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@__baileybrooks](https://www.twitter.com/__baileybrooks)
+
