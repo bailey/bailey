@@ -1,5 +1,5 @@
 <samp> ✨ hi! <br>
-  👩🏼‍💻 i do product tings on github codespaces<br> 
+  👩🏼‍💻 i do product things on github codespaces<br> 
   🌁 based in sf <br>
   🛸 playing: outer lands, valorant, super mario galaxy<br>
   📖 reading: dune <br> 
