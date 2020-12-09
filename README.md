@@ -1,4 +1,4 @@
-<img align="left" width="330" src="https://i.postimg.cc/Qxzycd3J/octocat-1607474030530.png"> <samp> ✨ hi! <br>
+<img align="left" width="290" src="https://i.postimg.cc/jSbsYbgK/octocat-1607474030530.png"> <samp> ✨ hi! <br>
   👩🏼‍💻 i do product things on github codespaces<br> 
   🌁 based in sf <br>
   🛸 playing: outer worlds, valorant, super mario galaxy<br>
