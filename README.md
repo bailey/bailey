@@ -1,6 +1,6 @@
 <img align="left" width="240" src="https://i.postimg.cc/jSbsYbgK/octocat-1607474030530.png"> <samp> ✨ hi! <br>
   👩🏼‍💻 i do product things on github codespaces<br> 
-  🌁 based in sf, currently somewhere in ca <br>
+  🌁 back in sf after 6 months exploring california <br>
   🛸 playing: valorant + stardew valley (it's all about _balance_)<br>
   📖 reading: seven eves <br> 
   🎧 listening to: <br> </samp>
