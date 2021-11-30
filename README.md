@@ -5,7 +5,9 @@
   📖 reading: the ministry for the future <br> 
   🎧 listening to: <br> </samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
-<br><br><br>
+<br><br><br><br><br>
 <samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@notbaileybrooks](https://www.twitter.com/notbaileybrooks) 💭
+<br><br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bailey&theme=nord&title=MultiLanguage,Organizations,Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
