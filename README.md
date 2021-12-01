@@ -2,6 +2,7 @@
   👩🏼‍💻 i do product things at github <br> 
   🌁 based in sf <br>
   🛸 playing: brilliant diamond + aoe 4 + ffxiv <br>
+  📽 [@acrokat](https://github.com/acrokat) and i go by `baikat` on [twitch](https://twitch.tv/baikat) <br>
   📖 reading: the ministry for the future <br> 
   🎧 listening to: <br> </samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
