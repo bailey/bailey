@@ -1,4 +1,4 @@
-<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="242" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a>hi :) .𖥔 ݁ ˖ ☽˚｡⋆ ⊹₊ ⋆  <br><samp>
+<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="242" src="https://media.tenor.com/upy0CZ6C0I0AAAAj/eevee-pokemon.gif"></a>hi :) .𖥔 ݁ ˖ ☽˚｡⋆ ⊹₊ ⋆  <br><samp>
   <kbd>👩🏼‍💻</kbd> i work on gaming + graphics @ apple <br> 
   <kbd>🌁</kbd> based in sf <br>
   <kbd>👾</kbd> playing: bo6, fields of mistria; learning: godot, blender  <br>
